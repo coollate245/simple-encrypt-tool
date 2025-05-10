@@ -11,13 +11,14 @@ chmod +x encrypt.py
 usage: encrypt.py [-h] [-e ][-de ] [-n ] [-k ]
 
 simple hashing tool
-
+```
 options:
   -h, --help          show this help message and exit
   -e  , --encrypt     encrypt mode(file/folder)
   -de  , --decrypt    encrypt mode(file/folder)
   -n  , --name        input data name
   -k  , --key         Decryption key (from key file or manual input)
+```
 # exemple
 file encrypt/decrypt
 ```
