@@ -8,8 +8,10 @@ cd simple_encrypt_tool
 chmod +x encrypt.py
 ```
 # how-to-use
-usage: encrypt.py [-h] [-e ][-de ] [-n ] [-k ]
-
+usage:
+```
+py encrypt.py [-h] [-e ][-de ] [-n ] [-k ]
+```
 simple hashing tool
 ```
 options:
