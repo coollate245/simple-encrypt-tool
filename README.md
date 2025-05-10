@@ -1,7 +1,8 @@
 # simple-encrypt-tool
 This is a simple encrypt tool that i make in free time
-\n
+---
 ps: there will be plenty update in the future
+---
 # installation
 ```bash
 git clone https://github.com/coollate245/simple-encrypt-tool
