@@ -4,7 +4,7 @@ ps: there will be plenty update in the future
 # installation
 ```bash
 git clone https://github.com/coollate245/simple-encrypt-tool
-cd encrypt_tool
+cd simple_encrypt_tool
 chmod +x encrypt.py
 ```
 # how-to-use
